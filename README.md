@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a biomedical engineer interested in software development. I'm working on a full stack project with Java Spring Boot, Postman, MySQL and Angular with TypeScript, HTML, and CSS for surgery scheduling. I'm looking to collaborate with tech companies in order to develop new professional experiences that allow me to acquire job skills to grow as a programmer.
+Junior software developer passionate about acquiring professional experience and committed to continuous learning to drive professional growth in the tech field. I have experience in Trainee/Apprentice programs with different companies, personal projects, and in academic and research projects that I developed throughout my degree involving simulations, data analysis, control systems, and signal and image processing with several programming languages. Currently, I’m have experience with full-stack web apps with Java Spring Boot, MySQL, Angular and React with TypeScript and JavaScript.
 
 
 ## 🌐 Socials:
